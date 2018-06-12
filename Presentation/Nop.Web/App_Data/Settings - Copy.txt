@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=localhost\CV1050;Initial Catalog=HaLan;Integrated Security=True;Persist Security Info=False;User ID=sa;Password=CV.VN.Admin@2016;
